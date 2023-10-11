@@ -14,7 +14,8 @@
 
         window_switch {
             bindings = <&lt 0 RIGHT_GUI>;
-            key-positions = <36 12>;
+            key-positions = <36 41>;
+            layers = <0>;
         };
     };
 
